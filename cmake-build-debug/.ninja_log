@@ -1,0 +1,14 @@
+# ninja log v6
+3	66	7635638385503021	CMakeFiles/lab_2.dir/repo.c.obj	a0ed0b7db9720fdd
+5	65	7635663021535131	CMakeFiles/lab_2.dir/main.c.obj	5e4825d3c9eca588
+21	85	7635623319178817	CMakeFiles/lab_2.dir/oferta.c.obj	d9bec15d69d3132c
+12	262	7635635512391226	CMakeFiles/lab_2.dir/srv.c.obj	d926ac731124b831
+10	81	7635663021585133	CMakeFiles/lab_2.dir/console.c.obj	61b0345f7e0d3540
+67	136	7635638386136837	lab_2.exe	e335d0620982d354
+3	202	7635663640368407	build.ninja	b18ce1b540ae4bcd
+2	71	7635663956880320	CMakeFiles/lab_2.dir/validator.c.obj	2bdeab6143857300
+3	67	7635664031385883	CMakeFiles/lab_2.dir/validator.c.obj	2bdeab6143857300
+67	139	7635664032029891	lab_2.exe	aadf271c09fd384b
+3	93	7635669575236792	CMakeFiles/lab_2.dir/validator.c.obj	2bdeab6143857300
+2	65	7635670183177276	CMakeFiles/lab_2.dir/validator.c.obj	2bdeab6143857300
+66	139	7635670183809766	lab_2.exe	aadf271c09fd384b

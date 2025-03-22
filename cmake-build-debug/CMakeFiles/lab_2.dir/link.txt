@@ -1,0 +1,1 @@
+/usr/bin/cc --coverage -O0 -g -Wall -Wextra -g CMakeFiles/lab_2.dir/main.c.o CMakeFiles/lab_2.dir/teste.c.o CMakeFiles/lab_2.dir/console.c.o CMakeFiles/lab_2.dir/srv.c.o CMakeFiles/lab_2.dir/lista.c.o CMakeFiles/lab_2.dir/oferta.c.o CMakeFiles/lab_2.dir/validator.c.o -o lab_2 

@@ -1,0 +1,3 @@
+/mnt/c/Users/Gabriel/Desktop/scoala/semestrul 2/oop/lab-uri/lab_2/cmake-build-debug-coverage/CMakeFiles/lab_2.dir
+/mnt/c/Users/Gabriel/Desktop/scoala/semestrul 2/oop/lab-uri/lab_2/cmake-build-debug-coverage/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Gabriel/Desktop/scoala/semestrul 2/oop/lab-uri/lab_2/cmake-build-debug-coverage/CMakeFiles/rebuild_cache.dir
